@@ -200,11 +200,6 @@ pip install -r requirements.txt
 
 ## ▶️ Run the Streamlit Application
 
-Start the application using:
-
-```bash
-streamlit run app.py
-```
 
 The application provides:
 
