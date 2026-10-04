@@ -7,8 +7,8 @@ import joblib
 # Load trained model and scaler
 # -----------------------------
 
-scaler = joblib.load("models/scaler.pkl")
-model = joblib.load("models/isolation_forest.pkl")
+scaler = joblib.load("scaler.pkl")
+model = joblib.load("isolation_forest.pkl")
 
 
 # -----------------------------
